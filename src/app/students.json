@@ -1,0 +1,114 @@
+[  
+  {
+    "id" : "1",
+    "name": "JAVA",
+    "email": "cts@cts.com",
+    "gender": "female"
+},
+
+{
+    "id" : "2",
+    "name": "JAVA",
+    "email": "ibm@ibm.com",
+    "gender": "male"
+},
+
+{
+    "id" : "3",
+    "name": "JAVA",
+    "email": "user@gamil.com",
+    "gender": "male"
+},
+
+{
+    "id" : "4",
+    "name": "JAVA",
+    "email": "CGI",
+    "gender": "male"
+},
+{
+    "id" : "5",
+    "name": "JAVA",
+    "email": "CGI@gail.com",
+    "gender": "female"
+},
+
+{
+    "id" : "6",
+    "name": "JAVA",
+    "email": "java@java.com",
+    "gender": "male"
+},
+
+{
+    "id" : "7",
+    "name": "JAVA",
+    "email": "CGI@gmail.com",
+    "gender": "male"
+},
+
+{
+    "id" : "8",
+    "name": "JAVA",
+    "email": "CGI@gmail.com",
+    "gender": "female"
+},
+
+{
+    "id" : "9",
+    "name": "JAVA",
+    "email": "CGI@cgi.com",
+    "gender": "female"
+},
+
+{
+    "id" : "10",
+    "name": "JAVA",
+    "email": "CGI",
+    "gender": "male"
+},
+
+{
+    "id" : "11",
+    "name": "JAVA",
+    "email": "CGI",
+    "gender": "female"
+},
+
+{
+    "id" : "12",
+    "name": "JAVA",
+    "email": "CGI",
+    "gender": "male"
+},
+    {  
+      "id": 13,  
+      "name": "Jack",  
+      "email": "jack@gmail.com",  
+      "gender": "male"  
+    },  
+    {  
+      "id": 14,  
+      "name": "Peter",  
+      "email": "peter@gmail.com",  
+      "gender": "male"  
+    },  
+    {  
+      "id": 15,  
+      "name": "Mary",  
+      "email": "mary@gmail.com",  
+      "gender": "female"  
+    },  
+    {  
+      "id": 16,  
+      "name": "Smith",  
+      "email": "smith@gmail.com",  
+      "gender": "male"  
+    },  
+    {  
+      "id": 17,  
+      "name": "John",  
+      "email": "john@gmail.com",  
+      "gender": "male"  
+    }  
+  ] 
